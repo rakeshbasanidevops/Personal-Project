@@ -1,4 +1,4 @@
-# My First Cloud Project
+# My First Cloud Learnings
 
 Cloud Engineer in 60 Days
 Linux Basics ( 2 Sessions )
