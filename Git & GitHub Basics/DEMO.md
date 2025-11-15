@@ -3,6 +3,10 @@ Free and open source Version Control System
 
 What is Version Control ?
 The Management of changes to documents,computer programs,large websites and other collections of Information.
+- Takes Snapshot of Changes
+- View History
+- Rollback Changes
+- Allows for Collaboration
 
 Terms/Acronyms - 
 Directory > Folder
