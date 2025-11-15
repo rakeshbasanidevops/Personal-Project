@@ -20,3 +20,5 @@ commit > Save your files in Git
 push > Upload Git commits to a remote repo,like Github
 pull > Download changes from remote repo to your local machine the opposite of push
 
+Git and GitHub in 1 Hour by Alex The Analyst
+https://www.youtube.com/watch?v=lLoJHifWTRw
