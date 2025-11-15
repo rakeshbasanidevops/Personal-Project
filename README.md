@@ -32,3 +32,17 @@ ssh: Securely connect to a remote machine.
 scp: Securely copy files between hosts.
 netstat: Display network connections. 
 
+𝗰𝗵𝗺𝗼𝗱 command
+It let's you change the permission of the file. It has a lot of options, the most I used was **𝘤𝘩𝘮𝘰𝘥 +𝘹 𝘧𝘪𝘭𝘦.𝘹** which added the execute flag. Basic permissions:
+
+r (read)
+w (write)
+x (execute)
+
+𝗵𝘁𝗼𝗽 command
+𝗰𝗮𝘁 command
+𝘁𝗮𝗶𝗹 command
+𝗴𝗿𝗲𝗽 command
+
+
+
