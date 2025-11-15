@@ -20,3 +20,6 @@ $git checkout -b branch_for_work "Shift Insert"
 $git checkout master (Switching back to master)
 $git checkout -b new_branch master
 $git checkout branch_for_work
+
+We want to push an existing repository from the command line
+$git remote add -origin "Path of the github location ex - "https://github.com/rakeshbasanidevops/MyfirstCloudLearnings/tree/main/Git%20%26%20GitHub%20Basics"
